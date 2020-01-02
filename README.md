@@ -1,0 +1,2 @@
+# scotchviz
+Data viz practice
